@@ -1,6 +1,8 @@
 <div>
-<h1 align="center">Hi 👋, I'm Pedro Gomes</h1>
-<h3 align="center">👨‍💻 A Developer Web Full-Stack</h3>
+<h1 align="center">Hi 👋, I'm Pedro Gomes
+👨‍💻 A Developer Web Full-Stack
+</h1>
+
 </div>
 
 <h3>About:</h3>
