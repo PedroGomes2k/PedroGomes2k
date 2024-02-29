@@ -3,7 +3,8 @@
 <h3 align="center">👨‍💻 A Developer Web Full-Stack</h3>
 
 <h3>About:</h3>
-<h3>Developer driven by curiosity and determination to solve problems through programming.</h3>
+<h3>Developer driven by curiosity and determination to solve problems through programming.</h3></br>
+
 
 - 🌱 I’m currently learning **Phyton, Angular and Java**
 
