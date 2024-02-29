@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pedro Gomes</h1></br>
+<h1 align="center">Hi 👋, I'm Pedro Gomes</h1>
 <h3 align="center">👨‍💻 A Developer Web Full-Stack</h3>
 
 <h3>About:</h3>
