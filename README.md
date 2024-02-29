@@ -1,9 +1,6 @@
-<div>
-<h1 align="center">Hi 👋, I'm Pedro Gomes
-👨‍💻 A Developer Web Full-Stack
-</h1>
 
-</div>
+<h1 align="center">Hi 👋, I'm Pedro Gomes</h1>
+<h2 align="center">👨‍💻 A Developer Web Full-Stack</h2>
 
 <h3>About:</h3>
 <h3>Developer driven by curiosity and determination to solve problems through programming.</h3>
