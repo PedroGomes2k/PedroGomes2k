@@ -6,7 +6,7 @@
 <h3>Developer driven by curiosity and determination to solve problems through programming.</h3></br>
 
 
-- 🌱 I’m currently learning **Phyton, Angular and Java**
+- 🌱 I’m currently learning **Python, Angular and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
